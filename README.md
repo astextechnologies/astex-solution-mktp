@@ -1,2 +1,0 @@
-# astex-solution-mktp
-
